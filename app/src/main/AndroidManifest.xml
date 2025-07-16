@@ -15,10 +15,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NfcApp">
+        <activity android:name=".WriteActivity"/>
+        <activity android:name=".ReadActivity"/>
 
         <activity
             android:name=".MainActivity"
             android:exported="true">
+
 
             <!-- Uygulama başlatma filtresi -->
             <intent-filter>

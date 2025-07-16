@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">NfcApp</string>
+    <string name="nfc_fups">NFC FUPS</string>
+    <string name="url_girin">URL girin</string>
+    <string name="nfc_oku">NFC OKU</string>
+    <string name="url_yaz">URL YAZ</string>
 </resources>
